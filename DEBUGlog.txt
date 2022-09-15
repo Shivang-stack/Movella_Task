@@ -1,0 +1,2 @@
+DEBUG   -   2005-03-19 15:10:26,618 - simple_example - debug message
+DEBUG   -   2005-03-19 15:10:26,695 - simple_example - warn message
